@@ -1,73 +1,54 @@
-# Welcome to your Lovable project
+Shiva Sai Muthyam - Portfolio Website
 
-## Project info
+A modern, responsive portfolio website showcasing my skills, projects, and experience as a Computer Science Engineering student and aspiring software developer.
 
-**URL**: https://lovable.dev/projects/b466ac84-4635-4b78-81d9-60eb495484bb
+🌐 Live Portfolio
 
-## How can I edit this code?
+Live Site: https://shivasai-muthyam-portfolio.vercel.app/
 
-There are several ways of editing your application.
+🚀 Features
 
-**Use Lovable**
+Responsive Design: Works across all devices
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b466ac84-4635-4b78-81d9-60eb495484bb) and start prompting.
+Modern UI/UX: Clean design with smooth animations
 
-Changes made via Lovable will be committed automatically to this repo.
+Interactive Sections: Hero, About, Skills, Projects, Education, and Contact
 
-**Use your preferred IDE**
+Performance Optimized: Fast loading with modern tools
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+SEO Optimized: Better visibility in search engines
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Accessibility: ARIA labels & keyboard navigation
 
-Follow these steps:
+💻 Tech Stack
+Languages
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+TypeScript, JavaScript, Java, Python, HTML5, CSS3
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Frameworks & Libraries
 
-# Step 3: Install the necessary dependencies.
-npm i
+React 18, Vite, React Router
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Tailwind CSS, shadcn/ui, Radix UI, Lucide React
 
-**Edit a file directly in GitHub**
+TanStack Query, React Hook Form, Recharts
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Zod, Date-fns, Embla Carousel
 
-**Use GitHub Codespaces**
+Tools
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+ESLint, PostCSS, Class Variance Authority
 
-## What technologies are used for this project?
+📂 Portfolio Sections
 
-This project is built with:
+Hero – Professional introduction with call-to-action
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+About Me – Background & journey
 
-## How can I deploy this project?
+Skills – Technical expertise
 
-Simply open [Lovable](https://lovable.dev/projects/b466ac84-4635-4b78-81d9-60eb495484bb) and click on Share -> Publish.
+Projects – Showcase of work
 
-## Can I connect a custom domain to my Lovable project?
+Education – Academic details
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Contact – Ways to connect
